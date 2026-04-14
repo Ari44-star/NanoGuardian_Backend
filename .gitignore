@@ -1,0 +1,11 @@
+# Carpetas de salida y temporales
+[Bb]in/
+[Oo]bj/
+
+# Configuración de VS Code y Visual Studio
+.vscode/
+.vs/
+*.user
+
+# Archivos de configuración local
+appsettings.Development.json
